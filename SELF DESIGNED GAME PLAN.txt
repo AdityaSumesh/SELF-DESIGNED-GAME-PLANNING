@@ -1,0 +1,26 @@
+because of pollution there is some changes happening in the atmosphere and aliens are colling with earth.
+there is scientist named aditya. he builds a fighting spaceship with extreme fighting capabilities. unfortunately he falls sick so he asks a friend for help. he teaches him about how to operate the spaceship and the laser guns and about how to reload the ammunition and repair the spaceship and now you have to guide him in shooting the aliens
+
+classes:
+obstacles class
+spaceship class
+laser gun class
+
+characters:
+meteors-NON PLAYING CHARACTERS
+playerABC-PLAYING CHARACTER
+
+Goal Of The Game:To Destroy The Given Number Of Alien 
+
+RULES OF THE GAME:1) YOU ARE GIVEN 5 LIVES
+                  2) If The Alien Attacks You, Your Life Reduces By 1
+                  3) There is a LifeBar and a AmmunitionBar showing the amount of                 ammunition you have
+                  4) IF YOUR LIFEBAR OR YOUR AMMUNITION BAR DROPS DOWN TO ZERO THEN THE GAME WILL GET OVER
+                  5) YOU will be give chance to recharge your life and your ammunition with life logo and bullet logo
+ 
+Balancing The Game: The More you lose your life or ammunition, the more you will have to collect the life logo and the bullet logo
+
+Adaptibility of the Game:The number of aliens Spawning at random positions increases so you have to keep an eye on the lifebar and ammunition bar and collect as much logos as possible
+ 
+Feedback for the player: after every 5 kill give the milestone sound
+
